@@ -1,0 +1,6 @@
+{
+  "name": "Twin City NCR Realty",
+  "description": "Premier residential real estate brokerage in Delhi NCR. Explore curated luxury apartments, villas, and penthouses with interactive maps, high-resolution photo galleries, and a secure client contact portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
